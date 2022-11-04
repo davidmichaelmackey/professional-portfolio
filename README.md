@@ -5,7 +5,7 @@ This project was to showcase my portfolio and to share a recent photo, previous 
 N/A : No installation necessary. Just browse and learn about me!
 
 # Usage
-To use this web app, click the navigation links at the top and throughout to learn more.
+To use this web app, click the links at the top & throughout to navigate easily.
 
 # Screenshot
 [![Screenshot of the website](./Assets/images/davidmackeydev.github.io_portfol.io_.png)
