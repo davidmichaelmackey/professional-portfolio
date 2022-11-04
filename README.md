@@ -8,7 +8,7 @@ N/A : No installation necessary. Just browse and learn about me!
 To use this web app, click the links at the top & throughout to navigate easily.
 
 # Screenshot
-[![Screenshot of the website](./Assets/images/davidmackeydev.github.io_portfol.io_.png)
+![Screenshot of the website](./Assets/images/davidmackeydev.github.io_portfol.io_.png)
 
 # Credits
 https://www.youtube.com/watch?v=1PnVor36_40&t=386s
