@@ -28,8 +28,13 @@ header nav {
 }
 
 header nav li a {
-  font-size: 50px;
+  font-size: 40px;
   color: rgb(250, 0, 75);
+}
+
+header nav li a:hover {
+  font-size: 40px;
+  color: white;
 }
 
 /* ! Body */
@@ -38,7 +43,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: absolute;
-  border: 30px solid rgb(250, 0, 75);
+  border: 22px solid rgb(250, 0, 75);
 }
 
 .main article p {
@@ -183,6 +188,16 @@ body {
   font-size: 18px;
   margin-left: 50px;
   padding-top: 10px;
+}
+
+.divwork {
+  text-align: center;
+  margin-top: 10vh;
+}
+
+.divcontact {
+  text-align: center;
+  margin-top: 5vh;
 }
 
 .divwork a {
