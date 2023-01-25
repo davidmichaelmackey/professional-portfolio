@@ -1,6 +1,6 @@
 # Description
 
-This project was to showcase my portfolio and to share a recent photo, previous work, and my contact info.
+This project showcases my personal portfolio  share a recent photo, previous work, and my contact info.
 
 # Installation
 
