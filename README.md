@@ -1,14 +1,14 @@
 # Description
 
-This project showcases my personal portfolio  share a recent photo, previous work, and my contact info.
+This project uses HTML and advanced CSS techniques to build a responsive, mobile-friendly personal portfolio web app.
 
 # Installation
 
-N/A : No installation necessary. Just browse and learn about me!
+N/A : No installation necessary.
 
 # Usage
 
-To use this web app, click the links at the top & throughout to navigate easily.
+To use this web app, click the links in the navigation & throughout to traverse easily.
 
 # Screenshot
 
