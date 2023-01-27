@@ -1,20 +1,22 @@
-# Description
+# Professional Portfolio
+
+## Description
 
 This project uses HTML and advanced CSS techniques to build a responsive, mobile-friendly personal portfolio web app.
 
-# Installation
+## Installation
 
 N/A : No installation necessary.
 
-# Usage
+## Usage
 
 To use this web app, click the links in the navigation to traverse easily.
 
-# Screenshot
+## Screenshot
 
 ![Screenshot of the website](./assets/images/screenshot.png)
 
-# Credits
+## Credits
 
 [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 <br>
@@ -40,10 +42,14 @@ To use this web app, click the links in the navigation to traverse easily.
 <br>
 [Wireframes](https://en.wikipedia.org/wiki/Website_wireframe)
 
-# License
+## License
 
 Please refer to the LICENSE in the Repo.
 
-# Deployment
+## Repository
+
+[Repository](https://github.com/davidmichaelmackey/professional-portfolio/)
+
+## Deployment
 
 [Professional Portfolio](https://davidmichaelmackey.github.io/professional-portfolio/)
