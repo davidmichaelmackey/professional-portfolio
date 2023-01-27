@@ -8,7 +8,7 @@ N/A : No installation necessary.
 
 # Usage
 
-To use this web app, click the links in the navigation & throughout to traverse easily.
+To use this web app, click the links in the navigation to traverse easily.
 
 # Screenshot
 
@@ -44,6 +44,6 @@ To use this web app, click the links in the navigation & throughout to traverse 
 
 Please refer to the LICENSE in the Repo.
 
-# Deployment Page
+# Deployment
 
-[Deployment](https://davidmichaelmackey.github.io/professional-portfolio/)
+[Professional Portfolio](https://davidmichaelmackey.github.io/professional-portfolio/)
